@@ -6,7 +6,7 @@ package main
 
 import (
 	"fmt"
-"github.com/leekchan/accounting"
+	"github.com/leekchan/accounting"
 )
 
 func main() {

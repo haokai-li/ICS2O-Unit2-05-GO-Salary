@@ -4,8 +4,10 @@
 
 package main
 
-import "fmt"
-import "github.com/leekchan/accounting"
+import (
+	"fmt"
+"github.com/leekchan/accounting"
+)
 
 func main() {
 	// This function displays currency

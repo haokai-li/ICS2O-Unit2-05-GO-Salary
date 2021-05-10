@@ -9,6 +9,7 @@ import (
 	
 	"github.com/leekchan/accounting"
 )
+
 func main() {
 	// This function displays currency
 	accountingFormater := accounting.Accounting{Symbol: "$", Precision: 2}
